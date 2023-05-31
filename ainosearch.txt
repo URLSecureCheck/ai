@@ -17,5 +17,3 @@ detektif
 cyclery
 construction 
 fan
-crypto
-invest
