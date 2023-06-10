@@ -1,8 +1,4 @@
-gunft
-funft
-bunft
-kunft
-zunft
+unft
 investiga
 cryptogra
 cryptology
@@ -22,3 +18,4 @@ cyclery
 construct 
 fan
 motor
+sanft
