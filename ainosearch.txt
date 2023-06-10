@@ -19,3 +19,4 @@ construct
 fan
 motor
 sanft
+bicycle
