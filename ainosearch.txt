@@ -19,6 +19,6 @@ rider
 debt
 detektif
 cyclery
-construction 
+construct 
 fan
 motor
