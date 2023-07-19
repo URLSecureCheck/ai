@@ -21,3 +21,4 @@ motor
 sanft
 bicycle
 recycler
+admin
