@@ -8,7 +8,6 @@ lawyer
 government
 scam
 fraud
-warning
 arnaques
 cyber
 rider
@@ -21,5 +20,4 @@ motor
 sanft
 bicycle
 recycler
-admin
 design
